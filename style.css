@@ -1,0 +1,61 @@
+b{
+    margin: 0;
+}
+#main{
+background-color: white;
+}
+                        /*Mise en page Titre*/
+#title{
+    text-align: center;
+}
+#title h1{
+    color: #9113ff;
+    font-size: 400%;
+    font-family: 'Baloo Da', cursive;
+    margin: 0;
+}
+#title p{
+    font-size: 110%;
+    font-style: italic;
+    font-family: 'Pacifico', cursive;
+    margin: 0;
+    margin-bottom: 1%;
+}
+                        /* Mise en Page Image */
+#img-div{
+    width: 100%;
+    margin: 0;
+}
+#image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 30%;
+}
+#img-caption{
+    text-align: center;
+    font-style: italic;
+}
+                        /*Mise en page Bio*/
+#tribute-info{
+    text-align: center;
+}
+.group1{
+    border: 0.2em solid gray;
+    border-radius: 1em;
+}
+#tribute-info h2{
+    color: #9113ff;
+    font-family: 'Baloo Da', cursive;
+    font-size: 300%;
+    letter-spacing: 0.2em;
+    margin: 0;
+}
+#tribute-info p{
+    margin: 0;
+    font-family: 'Pacifico', cursive;
+    font-size: 100%;
+}
+#tribute-info p a:link{
+    text-decoration: none;
+}
